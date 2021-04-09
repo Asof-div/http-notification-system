@@ -15,3 +15,6 @@ The backend teams at Pangaea currently use PHP Laravel) and NodeJS. Your take
 - Click on the demo image to watch the demo video.
 
 [![Watch the Application demo](/public/http-notification-system-demo.gif)](https://drive.google.com/file/d/1hBpT8Q5547zIzgws2mym52qDccnkNS_J/view?usp=sharing)
+
+## Subscribing client code
+python-flask-subscriber.py
